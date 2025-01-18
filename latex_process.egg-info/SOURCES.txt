@@ -1,0 +1,7 @@
+README.md
+setup.py
+latex_process.egg-info/PKG-INFO
+latex_process.egg-info/SOURCES.txt
+latex_process.egg-info/dependency_links.txt
+latex_process.egg-info/entry_points.txt
+latex_process.egg-info/top_level.txt

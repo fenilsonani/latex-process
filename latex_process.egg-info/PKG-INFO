@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: latex-process
+Version: 0.1.0
+Summary: A package to process LaTeX code and generate PDFs.
+Home-page: https://github.com/yourusername/latex-process
+Author: Your Name
+Author-email: your.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# latex-process
+
+A package to process LaTeX code and generate PDFs.
+
+## Installation
+
+```bash
+pip install latex-process
+```
+
+## Usage
+
+```bash
+latex-process
+```
